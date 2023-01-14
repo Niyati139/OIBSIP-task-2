@@ -1,0 +1,55 @@
+body {
+    font-family: "gilroy";
+    font-size: 25px;
+  }
+  
+  #main {
+    max-width: 1280px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: #dddddd;
+    border-radius: 5px;
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #main > p {
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  #img-div{
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 50px;
+    padding: 15px;
+    background-color:blanchedalmond;
+  }
+  
+  #image {
+    display: block;
+    border-radius: 50px;
+    max-width: 100%;
+    padding-bottom: 10px;
+  }
+  
+  #tribute-info {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  #tribute-info > h3 {
+    text-align: center;
+  }
+  
+  #tribute-info > ul li {
+    margin-bottom: 10px;
+    line-height: 30px;
+  }
+  
+  h5{
+     text-align: center;
+  }
